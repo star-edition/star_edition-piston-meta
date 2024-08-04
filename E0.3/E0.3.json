@@ -12,12 +12,12 @@
     "client": {
       "sha1": "e80d9b3bf5085002218d4be59e668bac718abbc6",
       "size": 0,
-      "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/raw/master/E0.3/star_editionE0.3.jar"
+      "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/E0.3/star_editionE0.3.jar"
     },
     "server": {
       "sha1": "952438ac4e01b4d115c5fc38f891710c4941df29",
       "size": 0,
-      "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/raw/master/E0.3/star_editionE0.3_server.jar"
+      "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/E0.3/star_editionE0.3_server.jar"
     },
     "windows_server": {
       "sha1": "a79b91ef69b9b4af63d1c7007f60259106869b21",
