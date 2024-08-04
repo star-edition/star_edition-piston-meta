@@ -4,7 +4,7 @@
     "sha1": "1863782e33ce7b584fc45b037325a1964e095d3e",
     "size": 72996,
     "totalSize": 112396854,
-    "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/blob/master/piston-assets/star_edition_assets/1.7.10.json"
+    "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/master/piston-assets/star_edition_assets/1.7.10.json"
   },
   "assets": "0.15",
   "complianceLevel": 0,
@@ -12,13 +12,12 @@
     "client": {
       "sha1": "cffc3e79bd8ee79cc53d887df907706febd821ce",
       "size": 0,
-      "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/raw/master/0.15/star_edition0.15.jar"
+      "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/0.15/star_edition0.15.jar"
     },
     "server": {
       "sha1": "952438ac4e01b4d115c5fc38f891710c4941df29",
       "size": 0,
-      "url": "https://raw.githubusercontent.com/star-edition/star_edition-piston-meta/raw/master/0.15/star_edition0.15_server.jar"
-    },
+      "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/0.15/star_edition0.15_server.jar
     "windows_server": {
       "sha1": "a79b91ef69b9b4af63d1c7007f60259106869b21",
       "size": 9999270,
