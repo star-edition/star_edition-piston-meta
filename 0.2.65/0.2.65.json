@@ -1,12 +1,12 @@
 {
   "assetIndex": {
-    "id": "1.7.10",
+    "id": "0.2.65",
     "sha1": "1863782e33ce7b584fc45b037325a1964e095d3e",
     "size": 72996,
     "totalSize": 112396854,
-    "url": "https://github.com/star-edition/star_edition-piston-meta/blob/master/piston-assets/star_edition_assets/1.7.10.json"
+    "url": "https://github.com/star-edition/star_edition-piston-meta/blob/master/piston-assets/star_edition_assets/0.2.65.json"
   },
-  "assets": "1.7.10",
+  "assets": "0.2.65",
   "complianceLevel": 0,
   "downloads": {
     "client": {
@@ -25,7 +25,7 @@
       "url": "https://launcher.mojang.com/v1/objects/a79b91ef69b9b4af63d1c7007f60259106869b21/windows_server.exe"
     }
   },
-  "id": "1.7.10",
+  "id": "0.2.65",
   "javaVersion": {
     "component": "jre-legacy",
     "majorVersion": 8
