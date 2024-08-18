@@ -10,12 +10,12 @@
   "complianceLevel": 0,
   "downloads": {
     "client": {
-      "sha1": "39960365de02cef5ffe3c057b9a8e4155fed4803",
+      "sha1": "61b7f3200e3eacbc80bed931dc2a4badfcd9e07d",
       "size": 0,
       "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/E0.35/star_editionE0.35.jar"
     },
     "server": {
-      "sha1": "952438ac4e01b4d115c5fc38f891710c4941df29",
+      "sha1": "9e2982f433b9a10da72d29090358641814cfc750",
       "size": 0,
       "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/E0.35/star_editionE0.35_server.jar"
     },
