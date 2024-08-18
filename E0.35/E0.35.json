@@ -1,12 +1,12 @@
 {
   "assetIndex": {
-    "id": "E0.3",
+    "id": "E0.35",
     "sha1": "1863782e33ce7b584fc45b037325a1964e095d3e",
     "size": 72996,
     "totalSize": 112396854,
     "url": "https://raw.githubusercontent.com/star-edition/star-edition.github.io/master/piston-assets/star_edition_assets/1.7.10.json"
   },
-  "assets": "E0.3",
+  "assets": "E0.35",
   "complianceLevel": 0,
   "downloads": {
     "client": {
@@ -25,7 +25,7 @@
       "url": "https://launcher.mojang.com/v1/objects/a79b91ef69b9b4af63d1c7007f60259106869b21/windows_server.exe"
     }
   },
-  "id": "E0.3",
+  "id": "E0.35",
   "javaVersion": {
     "component": "jre-legacy",
     "majorVersion": 8
