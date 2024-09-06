@@ -11,12 +11,12 @@
   "downloads": {
     "client": {
       "sha1": "b23378e3463dc472c2c7bcb3079fd60de18cee16",
-      "size": 0,
+      "size": 9571151,
       "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/0.2.65/star_edition0.2.65.jar"
     },
     "server": {
       "sha1": "a27d4f91222f7b0170a320d4becc20e29893a083",
-      "size": 0,
+      "size": 2744431,
       "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/0.2.65/star_edition0.2.65_server.jar"
     },
     "windows_server": {
