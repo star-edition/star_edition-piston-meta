@@ -10,8 +10,8 @@
   "complianceLevel": 0,
   "downloads": {
     "client": {
-      "sha1": "be282ad1d953070f0d8b8f1bbc87f444cfd9e5f7",
-      "size": 4257664,
+      "sha1": "d72dd0e3c6fb6c7257463b6b4586be9be9532de6",
+      "size": 9518203,
       "url": "https://github.com/star-edition/star_edition-piston-meta/raw/master/0.31/star_edition0.31.jar"
     },
     "server": {
